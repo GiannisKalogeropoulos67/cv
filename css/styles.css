@@ -1,0 +1,31 @@
+body {
+  background-color: azure;
+}
+
+h1
+{
+  color: darkslategrey;
+}
+h2
+{
+  color: darkslategrey;
+}
+
+h3
+{
+  color: darkslategrey;
+}
+
+hr {
+  height: 0px;
+  width: 100%;
+  border-style: solid none none;
+  border-width: 1px;
+  border-color: black;
+}
+
+/*********************************CLASS SELECTORS*********************/
+
+.circular{
+  border-radius: 100%;
+}
