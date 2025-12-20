@@ -1,19 +1,19 @@
 body {
-  background-color: azure;
+  background-color: 94B4C1;
 }
 
 h1
 {
-  color: darkslategrey;
+  color: 213448;
 }
 h2
 {
-  color: darkslategrey;
+  color: 547792;
 }
 
 h3
 {
-  color: darkslategrey;
+  color: EAE0CF;
 }
 
 hr {
@@ -29,3 +29,4 @@ hr {
 .circular{
   border-radius: 100%;
 }
+
